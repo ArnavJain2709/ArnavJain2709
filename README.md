@@ -68,12 +68,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavJain2709&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🎯 Current Focus
-
-- 🔨 Building projects with **React** and **Node.js**
-- 📚 Deepening knowledge in **Data Structures & Algorithms**
-- 🎓 Excelling in my Computer Science coursework at the University of Kent
-- 🚀 Contributing to open-source projects
 
 ## 📈 Activity Graph
 
