@@ -7,8 +7,8 @@
 ## 🚀 About Me
 
 - 🎓 **Computer Science Student** at the University of Kent
-- 💻 Passionate about **full-stack development** and **software engineering**
-- 🌱 Currently exploring advanced algorithms and system design
+- 🔭 Passionate about the intersection of quantitative finance and technology, using data-driven approaches to model market dynamics.
+- 🌱 Currently developing an end-to-end machine learning system for equity option pricing, including an automated data pipeline using Python and GitHub Actions.
 - 🔍 Always eager to learn new technologies and solve challenging problems
 - 📫 How to reach me: jarnav27@gmail.com | [LinkedIn](https://www.linkedin.com/in/arnav-jain-7b07a0203/)
 
